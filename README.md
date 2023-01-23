@@ -1,6 +1,6 @@
 ---
 layout: home
-title: SH Git Portfolio
+title: SH Git Blog
 permalink: /
 ---
 
