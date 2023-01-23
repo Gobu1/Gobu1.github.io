@@ -10,7 +10,8 @@ permalink: /
   1996.06.04
   
 ### Contact
-  TEL : 010-6830-2837  EMAIL : gogkgngg@gmail.com
+  TEL : 010-6830-2837  
+  EMAIL : gogkgngg@gmail.com
 
 ## 개발 기록을 남기는 블로그
 
