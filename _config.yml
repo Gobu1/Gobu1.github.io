@@ -48,12 +48,12 @@ exclude:
 collections:
   pages:
     output: true
-    permalink: /:collection/:path/:title:output_ext
+    permalink: /:collection/:path/
 
 page_width: 800px
 
 destination:      ./_site
-incremental:      false
+incremental:      true
 regenerate:       true
 
 plugins:
