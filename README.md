@@ -12,6 +12,6 @@ permalink: /
 
 위 블로그는 천천히 배워가며 개발해 나가고 있습니다.
 ### 링크
->[인적사항](/pages/about/)
+>[인적사항](/pages/about)
 >
->[프로젝트](/pages/project/)
+>[프로젝트](/pages/project)
