@@ -6,7 +6,7 @@ category: Jekyll
 layout: post
 ---
 
-<img src="/_images/about/SH_image.JPG" style="width: 150px; height=210;" >
+<img src="_images/about/SH_image.JPG" style="width: 150px; height=210;" >
 
 
 #### 인적사항
